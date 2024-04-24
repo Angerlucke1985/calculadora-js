@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+#resultado {
+    display: block;
+}
+
+.titulo:hover {
+    position: relative;
+    font-size: 35px;
+    color: greenyellow;
+}
+
+input {
+    padding: 20px;
+}
+
+
+
+
+
+
